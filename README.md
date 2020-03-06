@@ -26,3 +26,6 @@ https://www.netsarang.com/en/xshell-download/
 
 - Everything
 https://everything.en.softonic.com/
+
+- jad
+http://java-decompiler.github.io/
